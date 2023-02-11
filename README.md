@@ -1,18 +1,11 @@
 # MetaKRec
 
 A PyTorch and pyg implementation for the IEEE BigData paper below:  
-**MetaKRec: Collaborative Meta-Knowledge Enhanced Recommender System**.  
+[MetaKRec: Collaborative Meta-Knowledge Enhanced Recommender System](https://arxiv.org/abs/2211.07104).  
 
 ## Running
 ``python main.py``  
 
-Music Dataset:  
-
-Book Dataset:  
-
-Amazon Dataset:  
-
-Yelp Dataset:  
 
 ## Citation
 If you use our code, please cite the paper below:
